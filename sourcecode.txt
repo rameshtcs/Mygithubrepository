@@ -1,0 +1,14 @@
+this is a test source code
+include <studio.h>
+main()
+{
+ printf("this is my first program")
+}include <studio.h>
+main()
+{
+ printf("this is my first program")
+}include <studio.h>
+main()
+{
+ printf("this is my first program")
+}
