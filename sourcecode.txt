@@ -10,5 +10,4 @@ main()
 }include <studio.h>
 main()
 {
- printf("this is my first program")
-}
+
